@@ -6,5 +6,8 @@ module.exports = {
         'components': '@/components',
       }
     }
+  },
+  css: {
+    extract: false
   }
 }
